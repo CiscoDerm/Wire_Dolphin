@@ -7,17 +7,17 @@ Ce projet propose une solution de chiffrement/déchiffrement de fichiers en util
 
 ## Fonctionnalités
 
-- **Chiffrement :** Le script `encrypt.py` sécurise un fichier texte avec l'algorithme de chiffrement et enregistre le résultat avec l'extension `.encrypted`.
+- **Chiffrement :** Le script `wiredolphin.exe` sécurise tout les fichiers avec l'algorithme de chiffrement.
   
-- **Déchiffrement :** Le script `decrypt.py` restaure le fichier original à partir du fichier chiffré, en utilisant la clé stockée dans `cle.txt`. Le fichier déchiffré a l'extension `.decrypted`.
+- **Déchiffrement :** Le script `decrypt.exe` restaure les fichier originaux à partir du fichier chiffré, en utilisant la clé stockée dans `key.key`.
 
-- **Stockage de la Clé :** La clé de chiffrement est stockée dans `cle.txt`. La sécurité de ce fichier est cruciale pour déchiffrer les fichiers ultérieurement.
+- **Stockage de la Clé :** La clé de chiffrement est stockée dans `key.key`. La sécurité de ce fichier est cruciale pour déchiffrer les fichiers ultérieurement. # Ne pas chnager 
 
 ## Installation
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/projet-chiffrement-python.git
+   git clone https://github.com/CiscoDerm/projet-chiffrement-python.git
 
 ## Execution du programme 
 2 executables :
