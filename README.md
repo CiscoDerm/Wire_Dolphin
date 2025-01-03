@@ -17,7 +17,7 @@ Ce projet propose une solution de chiffrement/déchiffrement de fichiers en util
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/CiscoDerm/projet-chiffrement-python.git
+   git clone https://github.com/CiscoDerm/Wire_Dolphin.git
 
 ## Execution du programme 
 2 executables :
